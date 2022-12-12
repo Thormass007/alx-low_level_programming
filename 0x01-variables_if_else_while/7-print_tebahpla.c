@@ -4,8 +4,8 @@
 /**
  * main - main block
  * Description: prints all single digit number of base 10
- * Starting from 0, followed by a new line
- * Return: 0
+ * Starting from 0, followed by a new line.
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
